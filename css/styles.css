@@ -192,6 +192,8 @@ button {
   color: #4d5ae5;
   background-color: var(--main-dark-cl);
 }
+.logo-text {
+}
 .footer-info {
   font-family: "Roboto";
   font-style: normal;
