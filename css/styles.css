@@ -30,14 +30,15 @@ button {
   cursor: pointer;
 }
 .header-nav {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.17;
   letter-spacing: 0.02em;
   color: var(--main-dark-cl);
   background: var(--our-team-bg);
+  text-transform: uppercase;
 }
 /* Header-nav-list */
 .list-stulio:hover,
