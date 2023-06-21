@@ -34,14 +34,33 @@ button {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.17;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--main-dark-cl);
   background: var(--our-team-bg);
   text-transform: uppercase;
 }
+.header-logo {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: var(--logo-accent-cl);
+  text-align: center;
+}
+.studio-black {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  color: var(--main-dark-cl);
+}
 /* Header-nav-list */
-.list-studio link {
+.header-logo link {
   line-height: 1.5;
 }
 .list-studio:hover,
@@ -57,26 +76,6 @@ button {
   color: var(--title-accent-cl);
 }
 
-.header-logo {
-  font-family: "Raleway", sans-serif;
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  color: var(--logo-accent-cl);
-  text-align: center;
-}
-
-.studio-black {
-  font-family: "Raleway", sans-serif;
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  color: var(--main-dark-cl);
-}
 /* Conacts */
 .conacts {
   font-family: "Roboto", sans-serif;
