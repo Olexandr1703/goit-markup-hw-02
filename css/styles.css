@@ -94,6 +94,13 @@ button {
   color: #ffffff;
   background-color: var(--main-dark-cl);
 }
+.hero-section-title {
+  font-size: 56px;
+  line-height: 1.07;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
 .hero-btn {
   font-family: "Roboto";
   font-style: normal;
