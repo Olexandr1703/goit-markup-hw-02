@@ -16,7 +16,8 @@ body {
   background-color: var(--our-team-bg);
 }
 /* Reset */
-link ul,
+link,
+ul,
 ol {
   list-style: none;
 }
