@@ -64,16 +64,8 @@ button {
 .header-logo link {
   line-height: 1.5;
 }
-.list-studio:hover,
-.list-studio:focus {
-  color: var(--title-accent-cl);
-}
-.list-Portfolio:hover,
-.list-Portfolio:focus {
-  color: var(--title-accent-cl);
-}
-.list-Contacts:hover,
-.list-Contacts:focus {
+.navigation:hover,
+.navigation:focus {
   color: var(--title-accent-cl);
 }
 
