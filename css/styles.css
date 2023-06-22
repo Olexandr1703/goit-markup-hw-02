@@ -79,13 +79,8 @@ button {
   letter-spacing: 0.02em;
   color: var(--main-black-cl);
 }
-.conacts-mail:hover,
-.conacts-mail:focus {
-  color: var(--title-accent-cl);
-}
-
-.conacts-tel:hover,
-.conacts-tel:focus {
+.conacts-address:hover,
+.conacts-address:focus {
   color: var(--title-accent-cl);
 }
 
@@ -145,6 +140,7 @@ button {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--main-dark-cl);
+  text-align: center;
 }
 .four-section-title {
   font-family: "Roboto", sans-serif;
@@ -155,6 +151,7 @@ button {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--main-dark-cl);
+  text-align: center;
 }
 .four-section {
   background-color: var(--cloud-cl);
@@ -176,6 +173,9 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--main-black-cl);
+}
+.our-team-list {
+  background-color: var(--our-team-bg);
 }
 .footer {
   font-family: "Raleway", sans-serif;
