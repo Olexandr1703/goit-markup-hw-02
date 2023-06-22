@@ -21,7 +21,9 @@ ul,
 ol {
   list-style: none;
 }
-
+.list {
+  text-decoration: none;
+}
 a {
   text-decoration: none;
   color: currentColor;
